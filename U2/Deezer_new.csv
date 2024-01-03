@@ -1,0 +1,567 @@
+,Artista,in_deezer_playlists,in_deezer_charts,id_artista
+0,Myke Towers,58,14,1
+1,Olivia Rodrigo,91,14,2
+2,Olivia Rodrigo,461,1,2
+3,Olivia Rodrigo,485,0,2
+4,Olivia Rodrigo,141,0,2
+5,Olivia Rodrigo,105,0,2
+6,Olivia Rodrigo,99,0,2
+7,Olivia Rodrigo,70,0,2
+8,Taylor Swift,125,12,3
+9,Taylor Swift,42,1,3
+10,Taylor Swift,165,9,3
+11,Taylor Swift,410,2,3
+12,Taylor Swift,151,4,3
+13,Taylor Swift,142,4,3
+14,Taylor Swift,32,0,3
+15,Taylor Swift,8,2,3
+16,Taylor Swift,5,0,3
+17,Taylor Swift,0,0,3
+18,Taylor Swift,163,0,3
+19,Taylor Swift,6,1,3
+20,Taylor Swift,61,1,3
+21,Taylor Swift,113,0,3
+22,Taylor Swift,1378,9,3
+23,Taylor Swift,1,0,3
+24,Taylor Swift,3,0,3
+25,Taylor Swift,6,0,3
+26,Taylor Swift,38,10,3
+27,Taylor Swift,19,0,3
+28,Taylor Swift,21,0,3
+29,Taylor Swift,20,0,3
+30,Taylor Swift,14,0,3
+31,Taylor Swift,22,2,3
+32,Taylor Swift,30,1,3
+33,Taylor Swift,15,0,3
+34,Taylor Swift,16,0,3
+35,Taylor Swift,12,0,3
+36,Taylor Swift,13,0,3
+37,Taylor Swift,15,0,3
+38,Taylor Swift,13,0,3
+39,Taylor Swift,8,0,3
+40,Taylor Swift,11,0,3
+41,Taylor Swift,8,0,3
+42,Bad Bunny,87,15,4
+43,Bad Bunny,139,14,4
+44,Bad Bunny,43,6,4
+45,Bad Bunny,35,6,4
+46,Bad Bunny,85,9,4
+47,Bad Bunny,164,4,4
+48,Bad Bunny,40,0,4
+49,Bad Bunny,15,0,4
+50,Bad Bunny,24,0,4
+51,Bad Bunny,13,1,4
+52,Bad Bunny,11,0,4
+53,Bad Bunny,22,1,4
+54,Bad Bunny,11,0,4
+55,Bad Bunny,9,0,4
+56,Bad Bunny,10,0,4
+57,Bad Bunny,9,0,4
+58,Bad Bunny,12,0,4
+59,Bad Bunny,14,0,4
+60,Bad Bunny,8,0,4
+61,Quevedo,30,13,7
+62,Quevedo,37,5,7
+63,Quevedo,7,1,7
+64,Quevedo,21,3,7
+65,Gunna,48,11,8
+66,NewJeans,21,5,11
+67,NewJeans,4,4,11
+68,NewJeans,15,1,11
+69,NewJeans,11,1,11
+70,NewJeans,12,2,11
+71,NewJeans,9,0,11
+72,Miley Cyrus,745,58,12
+73,Miley Cyrus,138,1,12
+74,David Kushner,182,24,13
+75,David Kushner,32,1,13
+76,Harry Styles,863,46,14
+77,Harry Styles,1212,12,14
+78,Harry Styles,199,16,14
+79,Harry Styles,519,2,14
+80,Harry Styles,254,0,14
+81,Harry Styles,200,0,14
+82,Harry Styles,66,0,14
+83,Harry Styles,79,0,14
+84,Harry Styles,40,0,14
+85,Harry Styles,39,0,14
+86,Harry Styles,79,0,14
+87,Harry Styles,31,0,14
+88,Harry Styles,15,0,14
+89,Harry Styles,18,0,14
+90,Harry Styles,28,0,14
+91,Harry Styles,23,0,14
+92,Harry Styles,30,0,14
+93,SZA,161,12,15
+94,SZA,42,1,15
+95,SZA,14,0,15
+96,SZA,58,13,15
+97,SZA,31,0,15
+98,SZA,12,0,15
+99,SZA,182,1,15
+100,SZA,1,0,15
+101,SZA,8,0,15
+102,SZA,3,0,15
+103,SZA,1,0,15
+104,SZA,2,0,15
+105,SZA,1,0,15
+106,SZA,0,0,15
+107,SZA,43,0,15
+108,SZA,3,0,15
+109,SZA,2,0,15
+110,SZA,2,0,15
+111,SZA,1,0,15
+112,Fifty Fifty,78,6,16
+113,Fifty Fifty,30,0,16
+114,Billie Eilish,95,24,17
+115,Billie Eilish,65,0,17
+116,Billie Eilish,283,0,17
+117,Billie Eilish,250,0,17
+118,Billie Eilish,38,0,17
+119,Jimin,23,2,19
+120,Jimin,16,1,19
+121,Jimin,5,0,19
+122,Arctic Monkeys,582,2,21
+123,Arctic Monkeys,588,1,21
+124,Arctic Monkeys,2733,1,21
+125,Arctic Monkeys,1089,2,21
+126,Fuerza Regida,10,5,24
+127,Fuerza Regida,15,6,24
+128,Morgan Wallen,15,1,27
+129,Morgan Wallen,9,0,27
+130,Morgan Wallen,5,0,27
+131,Morgan Wallen,0,0,27
+132,Morgan Wallen,0,0,27
+133,Morgan Wallen,0,0,27
+134,Morgan Wallen,0,0,27
+135,Morgan Wallen,0,0,27
+136,Morgan Wallen,1,0,27
+137,Morgan Wallen,0,0,27
+138,Morgan Wallen,0,0,27
+139,Dua Lipa,143,38,28
+140,Dua Lipa,1535,3,28
+141,Dua Lipa,531,1,28
+142,Troye Sivan,50,1,29
+143,Troye Sivan,32,0,29
+144,OneRepublic,458,37,40
+145,OneRepublic,3394,11,40
+146,The Weeknd,24,0,41
+147,The Weeknd,3421,20,41
+148,The Weeknd,112,0,41
+149,The Weeknd,238,1,41
+150,The Weeknd,801,1,41
+151,The Weeknd,1992,0,41
+152,The Weeknd,218,1,41
+153,The Weeknd,133,0,41
+154,The Weeknd,34,0,41
+155,The Weeknd,62,0,41
+156,The Weeknd,15,0,41
+157,The Weeknd,14,0,41
+158,The Weeknd,61,0,41
+159,The Weeknd,38,0,41
+160,The Weeknd,14,0,41
+161,The Weeknd,6,0,41
+162,The Weeknd,11,0,41
+163,The Weeknd,6,0,41
+164,The Weeknd,2,0,41
+165,The Weeknd,2,0,41
+166,The Weeknd,3,0,41
+167,The Weeknd,344,0,41
+168,Karol G,23,10,46
+169,Karol G,39,6,46
+170,Karol G,30,6,46
+171,Karol G,147,11,46
+172,Peggy Gou,109,17,47
+173,Tom Odell,3394,19,48
+174,Kali Uchis,57,1,49
+175,Manuel Turizo,161,15,50
+176,Chris Molitor,4053,5,56
+177,Libianca,169,8,57
+178,Post Malone,31,1,58
+179,Post Malone,59,3,58
+180,Post Malone,633,3,58
+181,Glass Animals,707,28,60
+182,JVKE,109,18,61
+183,JVKE,43,0,61
+184,The Neighbourhood,1056,1,62
+185,The Neighbourhood,93,0,62
+186,The Neighbourhood,384,0,62
+187,Coldplay,4095,9,64
+188,Coldplay,7827,1,64
+189,Coldplay,805,0,64
+190,d4vd,68,1,65
+191,d4vd,50,0,65
+192,Maria Becerra,18,4,68
+193,Vance Joy,1003,1,69
+194,Lewis Capaldi,1800,0,74
+195,Lewis Capaldi,625,0,74
+196,Lewis Capaldi,84,9,74
+197,Jain,2703,22,76
+198,Luke Combs,35,0,78
+199,Doechii,24,0,79
+200,Jung Kook,8,0,81
+201,Jung Kook,20,0,81
+202,Lana Del Rey,63,1,83
+203,Lana Del Rey,1632,3,83
+204,Lana Del Rey,282,3,83
+205,BTS,25,4,84
+206,BTS,223,0,84
+207,BTS,583,0,84
+208,BTS,74,0,84
+209,BTS,26,0,84
+210,BTS,17,0,84
+211,BTS,12,0,84
+212,BTS,6,0,84
+213,Eminem,2394,5,86
+214,Eminem,3889,5,86
+215,Eminem,3271,1,86
+216,Eminem,5567,1,86
+217,Carin Leon,6,6,87
+218,Ruth B.,59,1,89
+219,Imagine Dragons,327,17,90
+220,Imagine Dragons,2969,10,90
+221,Imagine Dragons,3425,4,90
+222,Adele,2163,5,91
+223,Adele,657,22,91
+224,Adele,199,0,91
+225,Adele,6280,2,91
+226,Anggi Marito,0,0,93
+227,Tears For Fears,2655,0,95
+228,J. Cole,476,0,96
+229,Loreen,145,18,97
+230,Sabrina Carpenter,38,8,101
+231,Peso Pluma,4,3,103
+232,Peso Pluma,8,2,103
+233,Feid,52,4,104
+234,Feid,34,5,104
+235,Feid,45,5,104
+236,Feid,15,0,104
+237,Feid,18,0,104
+238,Feid,23,2,104
+239,Feid,25,1,104
+240,Feid,2,0,104
+241,(G)I-DLE,7,0,107
+242,(G)I-DLE,9,0,107
+243,Ed Sheeran,2094,0,112
+244,Ed Sheeran,6808,7,112
+245,Ed Sheeran,107,3,112
+246,Ed Sheeran,27,0,112
+247,Ed Sheeran,543,18,112
+248,Ed Sheeran,945,15,112
+249,Ed Sheeran,3895,0,112
+250,Ed Sheeran,2453,0,112
+251,Ed Sheeran,80,0,112
+252,Keane,5239,0,118
+253,New West,44,1,119
+254,Chino Pacas,4,2,120
+255,Natanael Cano,3,1,121
+256,Bruno Mars,356,0,124
+257,Bruno Mars,806,0,124
+258,Bruno Mars,2946,0,124
+259,Bruno Mars,862,0,124
+260,Justin Bieber,95,0,127
+261,Justin Bieber,310,0,127
+262,Justin Bieber,2430,0,127
+263,Chris Brown,3,0,128
+264,Daddy Yankee,453,0,130
+265,Daddy Yankee,52,0,130
+266,Miguel,435,6,132
+267,The Police,929,0,133
+268,Lord Huron,939,1,134
+269,Alec Benjamin,885,0,136
+270,YOASOBI,8,1,138
+271,Rosa Linn,226,24,139
+272,Rosa Linn,63,0,139
+273,One Direction,2,0,140
+274,Radiohead,6807,5,142
+275,James Arthur,61,0,143
+276,James Arthur,1509,0,143
+277,Cigarettes After Sex,790,2,144
+278,Shubh,0,0,145
+279,Frank Ocean,266,1,146
+280,Frank Ocean,587,0,146
+281,Hozier,4623,1,147
+282,Hotel Ugly,19,0,149
+283,Hotel Ugly,6,0,149
+284,Creedence Clearwater Revival,653,0,150
+285,Plan B,19,0,151
+286,a-ha,5108,6,153
+287,Shakira,79,11,156
+288,Stray Kids,5,0,159
+289,Stray Kids,20,0,159
+290,JISOO,20,0,166
+291,Coi Leray,143,0,175
+292,ENHYPEN,5,0,176
+293,ENHYPEN,10,0,176
+294,ENHYPEN,17,0,176
+295,Steve Lacy,131,16,180
+296,Steve Lacy,181,0,180
+297,Steve Lacy,13,0,180
+298,Drake,43,0,185
+299,Drake,61,0,185
+300,Drake,25,0,185
+301,Drake,2,0,185
+302,Simone Mendes,76,2,188
+303,Tini,63,4,189
+304,Lil Uzi Vert,47,0,190
+305,Sia,1145,2,191
+306,Sia,500,0,191
+307,Stephen Sanchez,154,20,192
+308,Tory Lanez,21,1,197
+309,Joji,158,3,198
+310,Joji,36,16,198
+311,Joji,65,0,198
+312,Agust D,10,2,201
+313,Labrinth,51,0,203
+314,Labrinth,102,0,203
+315,Labrinth,80,0,203
+316,Labrinth,266,0,203
+317,Labrinth,66,0,203
+318,Labrinth,138,0,203
+319,Labrinth,58,0,203
+320,Lizzy McAlpine,48,0,205
+321,IVE,7,0,206
+322,IVE,11,0,206
+323,IVE,13,0,206
+324,IVE,11,0,206
+325,sped up 8282,6,0,207
+326,SEVENTEEN,9,0,209
+327,NLE Choppa,13,0,210
+328,Raim Laode,1,1,216
+329,Meghan Trainor,127,3,218
+330,Grupo Frontera,22,9,220
+331,TV Girl,36,1,221
+332,INTERWORLD,24,0,222
+333,BLACKPINK,62,0,227
+334,BLACKPINK,77,1,227
+335,BLACKPINK,13,0,227
+336,NF,11,0,235
+337,Yng Lvcas,5,1,236
+338,Zach Bryan,46,16,239
+339,Melanie Martinez,12,0,240
+340,Mae Stephens,66,9,242
+341,Kenia OS,21,0,244
+342,Kordhell,50,0,245
+343,The Walters,135,0,248
+344,Mac DeMarco,29,1,249
+345,Jack Black,0,0,250
+346,Linkin Park,7341,0,253
+347,Linkin Park,6808,2,253
+348,Niall Horan,48,0,258
+349,Central Cee,110,0,259
+350,Central Cee,183,1,259
+351,Mahalini,0,0,260
+352,ThxSoMch,9,0,262
+353,ThxSoMch,18,0,262
+354,Nicki Minaj,20,0,265
+355,Nicki Minaj,76,9,265
+356,Kaifi Khalil,1,0,266
+357,Lady Gaga,277,3,268
+358,Lady Gaga,270,2,268
+359,Leo Santana,71,2,270
+360,Treyce,13,0,271
+361,XXXTENTACION,203,0,275
+362,XXXTENTACION,267,0,275
+363,The Kid Laroi,48,0,279
+364,The Kid Laroi,46,0,279
+365,Lizzo,25,0,280
+366,Lizzo,272,21,280
+367,Lizzo,158,2,280
+368,Fujii Kaze,9,0,281
+369,King,1,0,283
+370,P!nk,101,7,286
+371,LE SSERAFIM,11,0,287
+372,LE SSERAFIM,9,0,287
+373,PinkPantheress,28,13,288
+374,Rihanna,212,1,290
+375,Lil Nas X,208,0,291
+376,Lil Nas X,738,0,291
+377,Lil Nas X,298,0,291
+378,Beach Weather,87,12,292
+379,Baby Tate,12,4,294
+380,Beach House,335,0,297
+381,Sam Smith,1959,0,301
+382,Conan Gray,231,0,302
+383,TOMORROW X TOGETHER,13,0,305
+384,Mr.Kitty,3,0,307
+385,Seafret,134,1,311
+386,Dean Lewis,58,0,314
+387,Bellakath,15,0,315
+388,Kate Bush,676,3,318
+389,Aerosmith,5,0,319
+390,Freddie Dredd,17,0,320
+391,Kenshi Yonezu,26,0,323
+392,Omar Apollo,49,0,324
+393,Doja Cat,463,4,326
+394,Doja Cat,150,0,326
+395,Doja Cat,73,12,326
+396,Doja Cat,179,0,326
+397,Doja Cat,46,0,326
+398,Doja Cat,93,0,326
+399,Mariah Carey,2094,0,331
+400,Wham!,1302,0,332
+401,Brenda Lee,206,0,333
+402,Bobby Helms,104,0,334
+403,Ariana Grande,439,0,336
+404,Ariana Grande,95,0,336
+405,Andy Williams,160,0,337
+406,Dean Martin,277,0,338
+407,Kelly Clarkson,251,0,339
+408,The Ronettes,262,0,341
+409,Burl Ives,73,0,344
+410,Nat King Cole,251,0,345
+411,Nat King Cole,41,0,345
+412,Paul McCartney,29,0,346
+413,Band Aid,449,0,347
+414,Chris Rea,6,0,352
+415,Darlene Love,212,0,353
+416,Britney Spears,286,0,356
+417,RM,14,0,358
+418,Chuck Berry,52,0,366
+419,Frank Sinatra,65,0,367
+420,Gayle,575,18,370
+421,Farruko,965,20,374
+422,Jaymes Young,396,0,375
+423,Ckay,262,14,379
+424,Jessica Darrow,20,0,380
+425,Lisa,131,0,385
+426,BoyWithUke,118,0,389
+427,Emmy Meli,107,0,392
+428,Shawn Mendes,104,0,394
+429,Shawn Mendes,44,0,394
+430,Shawn Mendes,1370,2,394
+431,Kodak Black,35,0,395
+432,Rauw Alejandro,268,6,397
+433,Rauw Alejandro,39,0,397
+434,Sebastian Yatra,85,5,400
+435,Sebastian Yatra,74,0,400
+436,Stromae,394,0,403
+437,Oliver Tree,116,0,406
+438,Jnr Choi,159,0,410
+439,Edison Lighthouse,54,0,415
+440,Surf Curse,121,0,418
+441,Jason Derulo,182,1,419
+442,Trueno,24,0,423
+443,Kanye West,105,0,424
+444,Kanye West,1315,0,424
+445,Kanye West,274,0,424
+446,Playboi Carti,52,0,425
+447,Maluma,100,1,426
+448,TWICE,44,0,431
+449,TWICE,15,1,431
+450,Giveon,210,0,432
+451,SALES,50,0,435
+452,Sleepy hallow,44,0,436
+453,Masked Wolf,478,0,437
+454,NIKI,5,0,439
+455,Tate McRae,318,0,440
+456,Tate McRae,51,0,440
+457,Avicii,1282,0,441
+458,Avicii,6284,1,441
+459,Tones and I,3595,6,444
+460,Juice WRLD,710,0,445
+461,Juice WRLD,10,0,445
+462,John Legend,4534,2,447
+463,Nirvana,12367,4,448
+464,Nirvana,1197,0,448
+465,Duncan Laurence,584,1,449
+466,SiM,23,0,452
+467,The Killers,5063,2,454
+468,Polo G,78,0,459
+469,Maroon 5,1066,1,461
+470,Dove Cameron,102,0,470
+471,Charlie Puth,85,1,472
+472,Charlie Puth,12,0,472
+473,50 Cent,5221,1,475
+474,Yung Lean,113,1,476
+475,The Rare Occasions,65,0,478
+476,Ryan Castro,91,0,484
+477,Ryan Castro,35,1,484
+478,Kendrick Lamar,1481,0,485
+479,Kendrick Lamar,65,0,485
+480,Kendrick Lamar,12,0,485
+481,Kendrick Lamar,33,0,485
+482,Kendrick Lamar,13,0,485
+483,Kendrick Lamar,5,0,485
+484,Kendrick Lamar,0,0,485
+485,Kendrick Lamar,10,0,485
+486,Kendrick Lamar,4,0,485
+487,Kendrick Lamar,4,0,485
+488,Kendrick Lamar,3,0,485
+489,Kendrick Lamar,30,0,485
+490,Chase Atlantic,62,0,488
+491,Em Beihold,42,12,489
+492,Future,24,0,493
+493,Future,23,0,493
+494,Muni Long,46,13,495
+495,Vundabar,28,0,496
+496,V,6,0,497
+497,Cris Mj,53,1,503
+498,Anitta,180,1,504
+499,Dave,31,1,505
+500,Tulus,0,0,506
+501,Zion & Lennox,0,0,508
+502,Jack Harlow,24,0,510
+503,Jack Harlow,137,15,510
+504,Jack Harlow,3,0,510
+505,Treasure,7,0,512
+506,Christian Nodal,32,7,513
+507,Queen,5691,8,516
+508,YEAT,12,0,517
+509,YEAT,8,0,517
+510,C. Tangana,11,0,518
+511,NMIXX,10,0,521
+512,Paulo Londra,19,0,524
+513,Paulo Londra,7,0,524
+514,Danny Ocean,43,1,525
+515,Lil Tjay,31,0,526
+516,Willow,250,3,527
+517,Demi Lovato,577,0,529
+518,Lil Baby,15,0,533
+519,Lil Baby,13,0,533
+520,Yahritza Y Su Esencia,4,0,535
+521,teto,31,0,538
+522,BIGBANG,7,0,541
+523,Panic! At The Disco,150,0,554
+524,Benson Boone,87,1,557
+525,KALUSH,4,0,558
+526,Luciano,18,0,559
+527,Jessi,14,0,567
+528,Chanel,19,0,568
+529,Leah Kate,15,0,569
+530,Sam Ryder,32,0,570
+531,The Goo Goo Dolls,582,0,572
+532,Kevin Kaarl,5,0,573
+533,Suki Waterhouse,25,0,574
+534,Lauren Spencer Smith,24,1,575
+535,Musical Youth,900,0,580
+536,Halsey,19,0,582
+537,Paloma Faith,365,0,585
+538,Childish Gambino,107,1,588
+539,Duki,8,0,590
+540,Duki,12,0,590
+541,Sidhu Moose Wala,0,0,591
+542,Keisya Levronka,0,0,592
+543,Victor Cibrian,1,0,593
+544,Metallica,406,1,594
+545,Yung Gravy,26,0,596
+546,Lasso,15,1,597
+547,Nayeon,14,0,598
+548,j-hope,11,0,600
+549,Burna Boy,150,3,601
+550,Burna Boy,32,1,601
+551,Nessa Barrett,22,0,605
+552,LF System,128,0,606
+553,Rels B,20,0,608
+554,Luar La L,15,0,611
+555,Ghost,78,0,612
+556,Rex Orange County,16,0,613
+557,Sofia Carson,195,0,614
+558,Armani White,67,11,623
+559,Oxlade,107,1,624
+560,PnB Rock,0,0,625
+561,Lil Yachty,24,0,627
+562,Southstar,119,0,630
+563,girl in red,15,0,631
+564,Jin,15,1,637
+565,Selena Gomez,37,1,638

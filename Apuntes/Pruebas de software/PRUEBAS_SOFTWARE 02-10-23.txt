@@ -1,0 +1,85 @@
+*ambiguo : tiene varias perspectivas , varios puntos de verse , no esta bien definido,
+puede interpretarse de distintas maneras
+
+*si una pagina web se acomoda a los distintos tamnios eso es una pagina responsiba 
+
+*pruebas estaticas : se realizan antes que todas las demas ,en busca de errores
+de arquitectura.
+
+*analisis estatico:
+valores indefinidos
+x = 1 esta definido 
+x no esta definido y ocupa nadamas memoria
+
+*interfas entre modulos y componentes
+el modulo tiene las funciones, es la logica del programa y lo que debe de hacer
+componentes = es la vista como un login que no concuerde  con lo estructurado en los modulos
+que le falten partes. 
+
+*violaciones estandares de programacion
+se encuentran antes de empezar a programar.
+se pueden ver incluso desde los requerimientos , que no venga nada de encriptaciones
+o formas de seguridad.
+
+*codigo muerto:
+es codigo que esta ahi pero no afecta al sistema si lo dejas o lo quitas ya que nunca se usan 
+
+*roles en las pruebas estaticas
+
+analista de informacion:
+tambien puede ver los errores de interfaz y modulos.
+QAS
+encuentran errores de variables indefinidas , de modulos 
+tambien errores de incongruencia entre modulos e interfaz 
+checan si hay codigo muerto 
+
+
+desarrolladores
+
+PM
+checa las vulnerabilidades del sistema 
+interfaz inconsistente 
+
+*por que se requieren *
+
+-para la deteccion de errores/fallas en entapas anteriores
+-las pruebas dinamicas son costosas
+-mayor tamanio de software
+-las pruebas dinamicas requieren mucho tiempo 
+
+*TIPOS DE PRUEBAS ESTATICAS*
+
+-inspeccion de software:tiene 6 faces 
+desde un inicio checar el codigo en errores de sintaxis , de requerimientos.
+es mas facil que un QA o un senior cheque constantemente el digo para evitar errores.
+ 
+ux / ui
+anglosajon : gringo/habla ingles
+se refieren a la experiencia de usuario y la interfaz 
+ux: es el sistema , su experiencia usando el software.(debe ser facil de usar y entender)
+ui:es como se ve la vista , como te comunicas atraves de sus sentidos., disenio de como se va a persivir
+
+-planificacion de la reunion de inspeccion :
+se inspecciona el codigo o el disenio , tener en claro que se va a inspeccionar.
+moderador: programa la reunion  de inspeccion y distribuye material , lo puede hacer tanto los QAS como el PM.
+el moderador verifica si el producto esta listo  para la inspeccion o no.
+
+-vision general:
+el equipo recibe toda la informacion de fondo como las pantallas de disenio, los requerimientos.
+el desarrollador presentan su logica para el producto (funciones,enfoque)utilizado durante su desarrollo.
+
+moderador: encargado de que todos esten en el mismo canal
+
+-preparacion individual por miembros :
+indetifican los posiibles errores y lo documentan y se lo envian al moderador
+inspector = QAS
+
+- reunion de inspeccion:
+implica la discucion del autor (equipo de desarrollo) sobre ls cuestiones planteadas por los miembros del equipo en el registro compilado.
+
+se debate entre los equipos como de QAS , desarrollo y moderador de posibles errores , incongruencias en interfaz y sistema.
+cuando todo quedo en orden se pasa al autor.
+-reelaboracion
+pasa al autor y vuelven a realizar todo con correcciones de errores y se manda al moderador.
+-hacer un seguimiento
+si todavia quedaron errores se vuelve hacer otra reunion en donde se abarcan los errores.

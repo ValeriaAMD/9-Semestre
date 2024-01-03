@@ -1,0 +1,28 @@
+tamaÑo del proyecto
+
+tiempo
+
+lineas de codigo
+funcionalidades o caracteristicas -  las da el cliente y el usuario
+con los requerimientos.(lo que tiene que hacer).
+
+puntos de historia(story points)-son estimaciones
+
+tamaÑo de datos-puede ser una metrica importante. 
+
+complejidad algoritmica -   por calculos requeridos,podemos medirlo
+por que tan complejos son los algoritmos
+
+interacciones del usuario: numero de pantallas, que elementos tiene
+cada pantalla, un diagrama de flujo donde especificamos como ira 
+haciendo cada cosa el usuario en las pantallas.
+
+para presentar tu tabajo y proyecto , las metriccas nos ayudan mucho
+deja mas en claro que es lo que se hace ,lo que se hara ,costos,delimitaciones
+del proyecto.
+nos ayudan a facilitarnos el trabajo, para conocer todas nuestras limitaciones
+tanto de espacio en dispositivos como para saber cuanto tardara en desarrollarse.
+
+la planeacion nos ayuda a tener menos estres y sabemos hacia donde va nuestro
+proyecto , como y cuando.(justificacion del proyecto)
+

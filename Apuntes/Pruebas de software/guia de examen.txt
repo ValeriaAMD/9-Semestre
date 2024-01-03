@@ -1,0 +1,11 @@
+pruebas de software 
+7 principios de las pruebas
+el proceso de las pruebas de software(que son, los pasos)
+procesos de prueba (metodologias)
+planificacion: plan de pruebas
+monitorizacion y control: seguimiento a lo que ya se planeo(el pm o el jefe de qa se encargan)
+analisis: le toca al analista de sistema, analizamos la informacion que nos da
+diseño:casos de prueba, tiempos, tipos y resultados
+ejecucion e implementacion:ejec es hacer las pruebas y en implementacion se hacen los coambios
+sesgo de confirmacion: 
+sugerencias de buenas practicas de un tester

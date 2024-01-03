@@ -1,0 +1,200 @@
+nombres,apellidos,especialidad,edad,telefono
+Myke ,Towers,Alergologia,20,4651190280
+Olivia ,Rodrigo,Anestesiologia,21,1234567849
+Taylor ,Swift,Aparato digestivo,21,2345678903
+Bad ,Bunny,Cardiologia,22,4567890375
+Dave,Cee,Endocrinologia y nutricion,24,4567890167
+Eslabon ,Armado,Geriatria,25,4567890679
+Quevedo,Campos,Hematologia y hemoterapia,26,4567123456
+Gunna,Martinez,Medicina de la educacion fisica y del deporte,66,4656789457
+Peso ,pluma,Medicina espacial,61,4653451234
+Miley ,Cyrus,Medicina intensiva,60,4657345234
+David ,Kushner,Medicina interna,62,4569876321
+Harry ,Styles,Medicina legal y forense,63,4651112233
+SZA,Medina,Medicina preventiva y salud pœblica,64,4652233445
+Fifty ,Fifty,Medicina del trabajo,65,4657778890
+Billie ,Eilish,Nefrologia,67,4657733422
+Dua ,Lipa,Neumologia,67,4651009822
+Troye ,Sivan,Neurologia,68,4652233477
+Karol ,G,Neurofisiologia Clinica,69,4655566782
+Big,One,Oncologia m?dica,23,4653259876
+Yahritza ,Frontera,Oncologia radioterapica,23,2345678912
+Eslabon ,Towers,Pediatria,44,1234567849
+Quevedo,Rodrigo,Psiquiatria,45,2345678903
+Gunna,Swift,Rehabilitacion,65,4567890375
+Peso ,Bunny,Reumatologia,24,4567890167
+Miley ,Cee,Medicina familiar y comunitaria,23,4567890679
+David ,Armado,Cirugia cardiovascular,23,4567123456
+Harry ,Campos,Cirugia general y del aparato digestivo,22,4656789457
+SZA,Martinez,Cirugia oral y maxilofacial,44,4653451234
+Fifty ,pluma,Cirugia ortop?dica y traumatologia,23,4657345234
+Billie ,Cyrus,Cirugia pediatrica,23,4569876321
+Dua ,Kushner,"Cirugia plastica, est?tica y reparadora",31,4651112233
+Troye ,Lipa,Cirugia toracica,32,4652233445
+Myke ,Eilish,Neurocirugia,33,4657778890
+Olivia ,Lipa,Angiologia y cirugia vascular,34,4657733422
+Taylor ,Sivan,Dermatologia m?dico-quirœrgica y venereologia,35,4651009822
+Bad ,G,Obstetricia y ginecologia,36,4652233477
+Dave,One,Oftalmologia,37,4655566782
+Eslabon ,Frontera,Otorrinolaringologia,38,4653259876
+Quevedo,Towers,Urologia,39,4651190280
+Gunna,Rodrigo,Analisis clinicos,24,1234567849
+Peso ,Swift,Anatomia patologica,25,2345678903
+Miley ,Bunny,Bioquimica clinica,26,4567890375
+David ,Cee,Farmacologia clinica,66,4567890167
+Harry ,Armado,Inmunologia,61,4567890679
+SZA,Campos,Medicina nuclear,60,4567123456
+Fifty ,Martinez,Microbiologia y parasitologia,62,4656789457
+Billie ,pluma,Neurofisiologia clinica,63,4653451234
+Dua ,Cyrus,Radiodiagnostico,64,4657345234
+Troye ,Kushner,Alergologia ,21,4569876321
+Karol ,Lipa,Anestesiologia ,20,4651112233
+Big,Hinojosa,Cardiologia ,21,4652233445
+ Liam,Towers,Gastroenterologia ,21,4657778890
+emma,Rodrigo,Endocrinologia ,22,4657733422
+No?,Swift,Geriatria ,24,4651009822
+Olivia,Bunny,Hematologia y hemoterapia ,25,4652233477
+Guillermo,Cee,Hidrologia m?dica ,26,4655566782
+ava,Armado,Infectologia ,66,4653259876
+Jaime,Campos,Medicina aeroespacial,61,2345678912
+Isabela,Martinez,Cirugia toracica,60,1234567849
+oliver,pluma,Neurocirugia,62,2345678903
+Sofia,Cyrus,Angiologia y cirugia vascular,63,4567890375
+Benjamin,Kushner,Dermatologia m?dico-quirœrgica y venereologia,64,4567890167
+Dana,Styles,Obstetricia y ginecologia,65,4567890679
+Elias,Medina,Oftalmologia,67,4567123456
+charlotte,Fifty,Otorrinolaringologia,67,4656789457
+lucas,Eilish,Urologia,68,4653451234
+amelia,Lipa,Analisis clinicos,69,4657345234
+Enrique,Sivan,Anatomia patologica,23,4569876321
+harper,G,Bioquimica clinica,23,4651112233
+Alejandro,One,Farmacologia clinica,44,4652233445
+evelyn,Frontera,Inmunologia,45,4657778890
+Samuel,Towers,Medicina nuclear,65,4657733422
+abigail,Rodrigo,Microbiologia y parasitologia,24,4651009822
+Daniel,Swift,Neurofisiologia clinica,23,4652233477
+emily,Bunny,Radiodiagnostico,23,4655566782
+Mateo,Cee,Alergologia ,22,4653259876
+Isabel,Armado,Anestesiologia ,44,2345678912
+Joseph,Campos,Cardiologia ,23,1234567849
+Sofia,Martinez,Gastroenterologia ,23,2345678903
+jackson,pluma,Endocrinologia ,31,4567890375
+avery,Cyrus,Geriatria ,32,4567890167
+David,Kushner,Hematologia y hemoterapia ,33,4567890679
+ella,Lipa,Hidrologia m?dica ,34,4567123456
+Miguel,Eilish,Infectologia ,35,4656789457
+escarlata,Lipa,Medicina espacial,36,4653451234
+isaac,Sivan,Medicina intensiva,37,4657345234
+Gracia,G,Alergologia,38,4569876321
+jacob,One,Anestesiologia y reanimacion,39,4651112233
+cloe,Frontera,Aparato digestivo,24,4652233445
+Carretero,Towers,Cardiologia,25,4657778890
+Victoria,Rodrigo,Endocrinologia y nutricion,26,4657733422
+Wyatt,Swift,Geriatria,66,4651009822
+Riley,Bunny,Hematologia y hemoterapia,61,4652233477
+gabriel,Cee,Medicina de la educacion fisica y del deporte,60,4655566782
+Aria,Armado,Medicina espacial,62,4653259876
+Julian,Campos,Medicina intensiva,63,2345678912
+Lirio,Martinez,Medicina interna,64,1234567849
+Jacobo,pluma,Medicina legal y forense,21,2345678903
+zoey,Cyrus,Medicina preventiva y salud pœblica,20,4567890375
+lucas,Kushner,Medicina del trabajo,21,4567890167
+Myke , rodriguez,Nefrologia,21,4567890679
+Olivia , Garcia,Neumologia,22,4567123456
+Taylor , Lopez,Neurologia,24,4656789457
+Bad , Martinez,Neurofisiologia Clinica,25,4653451234
+Dave, hernandez,Oncologia m?dica,26,4657345234
+Eslabon ,Gonzalez,Oncologia radioterapica,66,4569876321
+Quevedo,Perez,Pediatria,61,4651112233
+Gunna,Sanchez,Psiquiatria,60,4652233445
+Peso , ramirez,Rehabilitacion,62,4657778890
+Miley ,Flores,Reumatologia,63,4657733422
+David ,torres,Medicina familiar y comunitaria,64,4651009822
+Harry ,Gomez,Cirugia cardiovascular,65,4652233477
+SZA,Vargas,Cirugia general y del aparato digestivo,67,4655566782
+Fifty ,reyes,Cirugia oral y maxilofacial,67,4653259876
+Billie ,morales,Cirugia ortop?dica y traumatologia,68,2345678912
+Dua ,Castro,Cirugia pediatrica,69,1234567849
+Troye ,Jimenez,"Cirugia plastica, est?tica y reparadora",23,2345678903
+Karol ,silva,Cirugia toracica,23,4567890375
+Big,franco,Neurocirugia,44,4567890167
+Yahritza ,Rios,Angiologia y cirugia vascular,45,4567890679
+Eslabon ,Ortiz,Dermatologia m?dico-quirœrgica y venereologia,65,4567123456
+Quevedo, Molina,Obstetricia y ginecologia,24,4656789457
+Gunna,Espinoza,Oftalmologia,23,4653451234
+Peso ,vega,Otorrinolaringologia,23,4657345234
+Miley ,navarro,Urologia,22,4569876321
+David ,morales,Analisis clinicos,44,4651112233
+Harry ,Mendoza,Anatomia patologica,23,4652233445
+SZA,medina,Bioquimica clinica,23,4657778890
+Fifty ,paredes,Farmacologia clinica,31,4657733422
+Billie ,contreras,Inmunologia,32,4651009822
+Dua ,Guzman,Medicina nuclear,33,4652233477
+Troye ,rivera,Microbiologia y parasitologia,34,4655566782
+Myke ,valenzuela,Neurofisiologia clinica,35,4653259876
+Olivia , Rojas,Radiodiagnostico,36,2345678912
+Taylor ,Fuentes,Alergologia ,37,1234567849
+Bad ,Soto,Anestesiologia ,38,2345678903
+Dave,Leon,Cardiologia ,39,4567890375
+Eslabon ,Cordero,Gastroenterologia ,24,4567890167
+Quevedo,Bravo,Endocrinologia ,25,4567890679
+Gunna,Sepœlveda,Geriatria ,26,4567123456
+Peso ,Mora,Hematologia y hemoterapia ,66,4656789457
+Miley ,Tapia,Hidrologia m?dica ,61,4653451234
+David ,Salazar,Infectologia ,60,4657345234
+Harry ,Figueroa,Medicina aeroespacial,62,4569876321
+SZA,romero,Cardiologia ,63,4651112233
+Fifty ,çlvarez,Gastroenterologia ,64,4652233445
+Billie ,vera,Endocrinologia ,21,4657778890
+Dua ,Pizarro,Geriatria ,20,4657733422
+Troye ,Carrasco,Hematologia y hemoterapia ,21,4651009822
+Quevedo,Towers,Hidrologia m?dica ,21,4652233477
+Gunna,Rodrigo,Infectologia ,22,4655566782
+Peso ,Swift,Medicina aeroespacial,24,4653259876
+Miley ,Bunny,Cirugia toracica,25,2345678912
+David ,Cee,Neurocirugia,26,1234567849
+Harry ,Armado,Angiologia y cirugia vascular,66,2345678903
+SZA,Campos,Dermatologia m?dico-quirœrgica y venereologia,61,4567890375
+Fifty ,Martinez,Obstetricia y ginecologia,60,4567890167
+Billie ,pluma,Oftalmologia,62,4567890679
+Dua ,Cyrus,Otorrinolaringologia,63,4567123456
+Troye ,Kushner,Urologia,64,4656789457
+Karol ,Lipa,Analisis clinicos,65,4653451234
+Big,Eilish,Anatomia patologica,67,4657345234
+ Liam,Lipa,Bioquimica clinica,67,4569876321
+emma,Sivan,Farmacologia clinica,68,4651112233
+No?,G,Cardiologia ,69,4652233445
+Olivia,One,Gastroenterologia ,23,4657778890
+Guillermo,Frontera,Endocrinologia ,23,4657733422
+ava,Towers,Geriatria ,44,4651009822
+Jaime,Rodrigo,Hematologia y hemoterapia ,45,4652233477
+Isabela,Swift,Hidrologia m?dica ,65,4655566782
+oliver,Bunny,Infectologia ,24,4653259876
+Sofia,Cee,Medicina espacial,23,2345678912
+Benjamin,Armado,Medicina intensiva,23,1234567849
+Dana,Campos,Alergologia,22,2345678903
+Elias,Martinez,Anestesiologia y reanimacion,44,4567890375
+charlotte,pluma,Aparato digestivo,23,4567890167
+lucas,Cyrus,Cardiologia,23,4567890679
+amelia,Kushner,Endocrinologia y nutricion,31,4567123456
+Enrique,Lipa,Geriatria,32,4656789457
+harper,Hinojosa,Hematologia y hemoterapia,33,4653451234
+Alejandro,Towers,Medicina de la educacion fisica y del deporte,34,4657345234
+evelyn,Rodrigo,Medicina espacial,35,4569876321
+Samuel,Swift,Medicina intensiva,36,4651112233
+abigail,Bunny,Medicina interna,37,4652233445
+Daniel,Cee,Medicina legal y forense,38,4657778890
+emily,Armado,Medicina preventiva y salud pœblica,39,4657733422
+Mateo,Campos,Medicina del trabajo,24,4651009822
+Isabel,Martinez,Nefrologia,25,4652233477
+Joseph,pluma,Neumologia,26,4655566782
+Sofia,Cyrus,Neurologia,66,4653259876
+jackson,Kushner,Neurofisiologia Clinica,61,2345678912
+avery,Styles,Oncologia m?dica,60,1234567849
+David,Medina,Oncologia radioterapica,62,2345678903
+ella,Fifty,Pediatria,63,4567890375
+Miguel,Eilish,Psiquiatria,64,4567890167
+escarlata,Lipa,Rehabilitacion,21,4567890679
+isaac,Sivan,Reumatologia,45,4567123456
+Gracia,G,Medicina familiar y comunitaria,34,4656789457
+jacob,Vera,Cirugia cardiovascular,32,4653451234
